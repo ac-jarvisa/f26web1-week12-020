@@ -23,3 +23,10 @@ h3{
 p{
     font-family: "Roboto", sans-serif;
 }
+
+
+/* you have to set both the width and height of an iframe */
+.maps{
+    width:50vw;
+    height:35vw;
+}
